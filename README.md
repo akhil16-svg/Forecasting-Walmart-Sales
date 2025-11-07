@@ -3,6 +3,12 @@
 This project focuses on **forecasting weekly sales across Walmart stores and departments** using historical data that includes promotions, holidays, weather, and economic indicators.  
 The goal is to identify the key factors influencing weekly sales and to build a model that can **accurately predict future sales** for better inventory, staffing, and promotion planning.
 
+<img width="557" height="420" alt="Screenshot 2025-11-06 at 18 01 06" src="https://github.com/user-attachments/assets/77059f90-f1da-4573-a6ec-af74b46b9640" />
+<img width="1333" height="525" alt="Screenshot 2025-11-06 at 18 02 16" src="https://github.com/user-attachments/assets/e1336636-4a7d-4f6b-9974-58d42e9fa801" />
+
+
+
+
 ## 🎯 Project Objectives
 - **Data Integration:** Combine multiple data sources — features, stores, and sales — into a single analytical dataset.
 - **Feature Engineering:** Create meaningful features such as seasonal indicators, lag variables (`Weekly_Sales_Lag`), and dummy variables for departments, store types, and weeks.
